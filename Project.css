@@ -206,7 +206,9 @@
   box-sizing: border-box;
 }
 .Main .your-data-on-dweep-io {
-  margin: 0 52.7rem 0.3rem 0;
+  margin-right: 2rem;
+  width: 49.7em;
+  
   display: inline-block;
   overflow-wrap: break-word;
   font-family: 'Inter';
